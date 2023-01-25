@@ -1,5 +1,11 @@
-package guru.qa;public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+package guru.qa;
+
+
+import java.net.URISyntaxException;
+
+//
+public class Main {
+    public static void main(String[] args) throws URISyntaxException {
+        ForZipFile.createZipFile();
     }
 }

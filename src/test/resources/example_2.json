@@ -1,1 +1,1 @@
-{"id":7,"name":"James","permanent":true,"address":null,"phoneNumbers":null,"role":"Developer"}
+{"id":2,"name":"James","permanent":true,"address":{"street":"Leninskaya","city":"Samara","zipcode":443031},"phoneNumbers":["89376431608"],"role":"Developer"}
